@@ -5,7 +5,8 @@ Grab the article at [https://medium.com/@st.mas29/microsoft-blazor-web-api-with-
 
 ## Tips/Run
 
-* Abc;
+* Run: "dotnet run";
+* Run [http://localhost:5000](http://localhost:5000);
 
 ## Errors Experienced
 
